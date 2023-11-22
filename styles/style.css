@@ -20,7 +20,6 @@ html {
   font-size: 18px;
   line-height: 16.2px;
   background-color: #1b1919;
-  inline-size: 1200px;
   block-size: 100%;
 
 }
@@ -73,7 +72,7 @@ video {
 .result__video-container {
   position: relative;
   width: 711px;
-  height: 402px;
+  height: 386px;
   margin: 0 0 16px 0;
 }
 
@@ -247,7 +246,6 @@ video {
 .content__video-card {
   display: flex;
   justify-content: space-between;
-  padding: 2px;
 }
 
 .content__video-card-description-container {
